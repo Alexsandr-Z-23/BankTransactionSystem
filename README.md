@@ -18,4 +18,5 @@
    ```bash
    javac -d bin src/main/java/**/*.java
 
-   <img width="574" height="774" alt="image" src="https://github.com/user-attachments/assets/c3184653-fc12-4aa6-9494-9f33fa5c8c07" />
+
+<img width="574" height="774" alt="image" src="https://github.com/user-attachments/assets/c3184653-fc12-4aa6-9494-9f33fa5c8c07" />
